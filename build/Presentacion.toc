@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Relevancia del proyecto}{5}{0}{1}
+\beamer@sectionintoc {2}{Objetivos}{8}{0}{2}
+\beamer@sectionintoc {3}{Antecedentes}{11}{0}{3}
+\beamer@sectionintoc {4}{Marco teórico}{13}{0}{4}
+\beamer@sectionintoc {5}{Diseño-experimental}{15}{0}{5}
+\beamer@subsectionintoc {5}{1}{Grupos de estudio}{16}{0}{5}
+\beamer@subsectionintoc {5}{2}{Problemas asociados a la destilación solar}{18}{0}{5}
+\beamer@subsectionintoc {5}{3}{Configuración experimental}{19}{0}{5}
+\beamer@sectionintoc {6}{Resultados}{27}{0}{6}
+\beamer@sectionintoc {7}{Resumen}{45}{0}{7}
